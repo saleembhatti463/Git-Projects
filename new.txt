@@ -1,2 +1,6 @@
 match
+<<<<<<< HEAD
 cricket
+=======
+2nd Match
+>>>>>>> master
